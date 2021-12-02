@@ -29,11 +29,12 @@ Develop an asset management platform with Angular
 # 💡 Projects
 
 **[loawn.com](https://loawn.herokuapp.com)** - status paused ⏸<br>
-Created during the first lockdown, loawn is the acronym of local area workers network. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.
+Created during the first lockdown, loawn is the acronym of local area workers network. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
 Technologies: Websockets, MongoDB, Node.js, Express.js, geolocation
 
 **[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminated ⏹<br>
-This application allows you to save your information in your browser's cache. The travel certificate can be generated locally without sharing the data with a state server.  
+This application allows you to save your information in your browser's cache. The travel certificate can be generated locally without sharing the data with a state server.<br>
+Technologies: Nuxt
 
 ## 🥷 Hackathons
 
