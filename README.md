@@ -10,7 +10,7 @@
 - **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling updates, horizontal and vertical autoscale ensures the high availability of the product.
 - Create **dev workflow** with github actions. Deployments are automatically deployed and versionned on staging cluster. Then, developments are automatically deployed on production cluster.
 
-### **R&D engineer** @[Ateme](https://www.ateme.fr) *(Dec 2019 - Decembre 2021)*<br>
+### **R&D engineer** @[Ateme](https://www.ateme.com) *(Dec 2019 - Decembre 2021)*<br>
 - **Anevia cloud services (6 first months):**
 Development and administration of a management platform for more than 800 servers broadcasting OTT content in hotels, hospitals and more.<br>
 Technologies: Angular 9, Django, Kubernetes, Docker, Postgresql, algolia, GitLab pipelines
@@ -29,7 +29,7 @@ Develop an asset management platform with Angular
 # 💡 Projects
 
 **[loawn.com](https://loawn.herokuapp.com)** - status paused ⏸<br>
-Created during the first lockdown, loawn is the acronym of local area workers network. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
+Created during the first lockdown, *loawn is the acronym of local area workers network*. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
 Technologies: Websockets, MongoDB, Node.js, Express.js, geolocation
 
 **[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminated ⏹<br>
