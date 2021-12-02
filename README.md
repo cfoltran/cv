@@ -6,6 +6,10 @@
 
 ## 👨‍💻 Experiences
 
+### **Software engineer** @[panierdachat.com](https://panierdachat.com) *(from Dec 2021)*
+- **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling update, horizontal and vertical autoscale ensures the high availability of the product.
+- Create **dev workflow** with github actions. Deployment are automatically deployed and versionned on staging cluster. Then, developments are automatically deployed on production cluster.
+
 ### **R&D engineer** @[Ateme](https://www.ateme.fr) *(Dec 2019 - Decembre 2021)*<br>
 - **Anevia cloud services (6 first months):**
 Development and administration of a management platform for more than 800 servers broadcasting OTT content in hotels, hospitals and more.<br>
@@ -28,7 +32,7 @@ Develop an asset management platform with Angular
 2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
 
 **HEC design thinking:**<br>
-1 month of reflection around the issue of sustainable development. We created a platform to recycle textile waste. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This are made available to designers or recycling factories. This platform will allow us to obtain the first place allowing us to be incubated at Station F for 1 year. 
+1 month of reflection around the issue of sustainable development. We created a platform to recycle textile wastes. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This are made available to designers or recycling factories. This platform will allow us to obtain the first place allowing us to be incubated at Station F for 1 year. 
 
 ## ✅ Google Kubernetes certifications
 
