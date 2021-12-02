@@ -7,8 +7,8 @@
 ## 👨‍💻 Experiences
 
 ### **Software engineer** @[panierdachat.com](https://panierdachat.com) *(from Dec 2021)*
-- **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling update, horizontal and vertical autoscale ensures the high availability of the product.
-- Create **dev workflow** with github actions. Deployment are automatically deployed and versionned on staging cluster. Then, developments are automatically deployed on production cluster.
+- **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling updates, horizontal and vertical autoscale ensures the high availability of the product.
+- Create **dev workflow** with github actions. Deployments are automatically deployed and versionned on staging cluster. Then, developments are automatically deployed on production cluster.
 
 ### **R&D engineer** @[Ateme](https://www.ateme.fr) *(Dec 2019 - Decembre 2021)*<br>
 - **Anevia cloud services (6 first months):**
