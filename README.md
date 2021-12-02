@@ -24,22 +24,20 @@ Develop an asset management platform with Angular
 
 ## 🥷 Hackathon
 
-### [Open climate collabathon](https://www.collabathon.openclimate.earth/) in HEC Paris:<br>
+**[Open climate collabathon](https://www.collabathon.openclimate.earth/) in HEC Paris:**<br>
 2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
 
-### HEC design thinking:<br>
+**HEC design thinking:**<br>
 1 month of reflection around the issue of sustainable development. We created a platform to recycle textile waste. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This are made available to designers or recycling factories. This platform will allow us to obtain the first place allowing us to be incubated at Station F for 1 year. 
 
-## ✅ Certifications
+## ✅ Google Kubernetes certifications
 
-### Architecting with Google Kubernetes Engine: Workloads
-[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/A4AKGB86KU7A)
+[Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/certificate/A4AKGB86KU7A)
 
-### Architecting with Google Kubernetes Engine: Foundations
-[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/L9JFVTRL8J79)
 
-### Google Cloud Platform Fundamentals: Core Infrastructure
-[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/ZKDKE4QT9DAU)
+[Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/L9JFVTRL8J79)
+
+[Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/ZKDKE4QT9DAU)
 
 ## 💪 Sport
 
