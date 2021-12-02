@@ -1,6 +1,6 @@
 # Clément Foltran
 
-## Software engineer<br>
+### Software engineer<br>
 
 [Email](mailto:clement.foltran@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/clementfoltran/) / [GitHub](https://github.com/cfoltran/)
 
