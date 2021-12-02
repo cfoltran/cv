@@ -28,10 +28,7 @@ Develop an asset management platform with Angular
 2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
 
 ### HEC design thinking:<br>
-1 month of reflection around the issue of sustainable development. We created a platform . Our solution allows to connect directly to the ERP of the companies in order to have access to the unsold goods. The unsold goods are then made available to designers or recycling factories. We will win the first place in the program allowing us to be incubated at Station F for 1 year. We had the chance to work with big French actors like LVMH or the French underwear. 
-
-Translated with www.DeepL.com/Translator (free version)
-
+1 month of reflection around the issue of sustainable development. We created a platform to recycle textile waste. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This are made available to designers or recycling factories. This platform will allow us to obtain the first place allowing us to be incubated at Station F for 1 year. 
 
 ## ✅ Certifications
 
