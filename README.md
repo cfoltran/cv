@@ -39,9 +39,9 @@ Develop an asset management platform with Angular
 
 [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/ZKDKE4QT9DAU)
 
-## 💪 Sport
+## 💪 Sports
 
-Hiking, running and climbing
+Hiking, running, sking and climbing
 
 ## 💬 Languages
 
