@@ -4,7 +4,7 @@
 
 [Email](mailto:clement.foltran@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/clementfoltran/) / [GitHub](https://github.com/cfoltran/)
 
-## 👨‍💻 Experience
+## 👨‍💻 Experiences
 
 ### **R&D engineer** @[Ateme](https://www.ateme.fr) *(Dec 2019 - Decembre 2021)*<br>
 - **Anevia cloud services (6 first months):**
@@ -22,7 +22,7 @@ Development of a platform for managing unsold textiles, incubated at Station F b
 ### **Front-end developer** internship @[Soneka.am](https://www.soneka.am) *(Apr 2018 - Aug 2019)*<br>
 Develop an asset management platform with Angular
 
-## 🥷 Hackathon
+## 🥷 Hackathons
 
 **[Open climate collabathon](https://www.collabathon.openclimate.earth/) in HEC Paris:**<br>
 2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
