@@ -26,6 +26,15 @@ Development of a platform for managing unsold textiles, incubated at Station F b
 ### **Front-end developer** internship @[Soneka.am](https://www.soneka.am) *(Apr 2018 - Aug 2019)*<br>
 Develop an asset management platform with Angular
 
+# 💡 Projects
+
+**[loawn.com](https://loawn.herokuapp.com)** - status paused ⏸<br>
+Created during the first lockdown, loawn is the acronym of local area workers network. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.
+Technologies: Websockets, MongoDB, Node.js, Express.js, geolocation
+
+**[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminated ⏹<br>
+This application allows you to save your information in your browser's cache. The travel certificate can be generated locally without sharing the data with a state server.  
+
 ## 🥷 Hackathons
 
 **[Open climate collabathon](https://www.collabathon.openclimate.earth/) in HEC Paris:**<br>
