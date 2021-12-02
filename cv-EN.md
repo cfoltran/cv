@@ -1,0 +1,61 @@
+# Clément Foltran
+
+## Software engineer<br>
+
+[Email](mailto:clement.foltran@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/clementfoltran/) / [GitHub](https://github.com/cfoltran/)
+
+## 👨‍💻 Experience
+
+### **R&D engineer** @[Ateme](https://www.ateme.fr) *(Dec 2019 - Decembre 2021)*<br>
+- **Anevia cloud services (6 first months):**
+Development and administration of a management platform for more than 800 servers broadcasting OTT content in hotels, hospitals and more.<br>
+Technologies: Angular 9, Django, Kubernetes, Docker, Postgresql, algolia, GitLab pipelines
+
+- **Anevia pilot:**
+Web application to manage video cache instances used to provide on demand content, lives...<br>
+Technologies: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
+
+### **Co-founder** @Stoke *(Fev 2018 - Jan 2020)*<br>
+Development of a platform for managing unsold textiles, incubated at Station F by the French Fashion Institute.
+
+
+### **Front-end developer** internship @[Soneka.am](https://www.soneka.am) *(Apr 2018 - Aug 2019)*<br>
+Develop an asset management platform with Angular
+
+## 🥷 Hackathon
+
+### [Open climate collabathon](https://www.collabathon.openclimate.earth/) in HEC Paris:<br>
+2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
+
+### HEC design thinking:<br>
+1 month of reflection around the issue of sustainable development. We created a platform . Our solution allows to connect directly to the ERP of the companies in order to have access to the unsold goods. The unsold goods are then made available to designers or recycling factories. We will win the first place in the program allowing us to be incubated at Station F for 1 year. We had the chance to work with big French actors like LVMH or the French underwear. 
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+## ✅ Certifications
+
+### Architecting with Google Kubernetes Engine: Workloads
+[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/A4AKGB86KU7A)
+
+### Architecting with Google Kubernetes Engine: Foundations
+[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/L9JFVTRL8J79)
+
+### Google Cloud Platform Fundamentals: Core Infrastructure
+[Diploma URL](https://www.coursera.org/account/accomplishments/certificate/ZKDKE4QT9DAU)
+
+## 💪 Sport
+
+Hiking, running and climbing
+
+## 💬 Languages
+
+French 🇫🇷 and english 🇬🇧
+
+## 👨‍🎓 Education
+
+**42 Paris**<br>
+[42.fr](https://42.fr/) - Paris, France _(Aug 2018 - Jun 2020)_ <br>
+
+**Paris Saclay university** - IT university full course diploma<br>
+Paris, France _(Sep 2016 - Jun 2018)_ <br>
