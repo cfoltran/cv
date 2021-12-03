@@ -75,7 +75,7 @@ Only one function to write an ascii character is allowed:<br>
 `write(int fd, const void *buf, size_t count);`<br>
 If you need another function you have to recode it (except malloc). Beside some projects.
 
-- [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. Quand un utilisateur choisis un film, notre API télécharge le film sur notre serveur et stream en FFMPEG le contenu. Le film est gardé 10 jours sur nos serveurs.<br>
+- [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. When a user chooses a movie, our API uploads the movie to our server and streams the content in FFMPEG. The movie is kept on our servers for 10 days.<br>
 Technologies: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
 ⚠️ Warning: the use of this application is illegal
 - [Qinder](https://github.com/cfoltran/qinder): This is a tinder clone realized with PostgresSQL and Angular.
