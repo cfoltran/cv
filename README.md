@@ -1,7 +1,7 @@
+![Spellcheck](https://github.com/cfoltran/cv/actions/workflows/main.yaml/badge.svg)
 # Clément Foltran
 
 ### Software engineer<br>
-![Spellcheck](https://github.com/cfoltran/cv/actions/workflows/main.yaml/badge.svg)
 ```
 kubectl get pods --context=clementfoltran
 NAME                                  READY   STATUS    RESTARTS   AGE
