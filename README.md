@@ -14,7 +14,7 @@ clement-foltran                       1/1     Running   0          23y
 
 ### **Software engineer** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 *(from Oct 2021)*
 - **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling updates, horizontal and vertical autoscale ensures the high availability of the product.
-- Create **dev workflow** with github actions. Deployments are automatically deployed and versioned on staging cluster. Then, developments are automatically deployed on production cluster.
+- Create **dev workflow** with github actions. Deployments are automatically deployed and versioned on staging cluster. Then, developments are automatically deployed on production cluster.<br>
 Technologies: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
 ### **R&D engineer** @[Ateme](https://www.ateme.com), Paris *(Dec 2019 - Dec 2021)*<br>
