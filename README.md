@@ -65,6 +65,14 @@ French 🇫🇷 and english 🇬🇧
 
 **42 Paris**<br>
 [42.fr](https://42.fr/) - Paris, France _(Aug 2018 - Jun 2020)_ <br>
+42 is one of the most difficult programming school. The entrance exam takes place over a month. Every day, exercises on the C language and a group project on weekends.
+Only one function to write an ascii character is allowed:<br>
+`write(int fd, const void *buf, size_t count);`<br>
+If you need another function you have to recode it (except malloc). Beside some projects.
+
+- [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. Quand un utilisateur choisis un film, notre API télécharge le film sur notre serveur et stream en FFMPEG le contenu. Le film est gardé 10 jours sur nos serveurs.<br>
+Technologies: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js
+- [Qinder](https://github.com/owalid/hypertube): This is a tinder clone realized with PostgresSQL and Angular.
 
 **Paris Saclay university** - IT university full course diploma<br>
 Paris, France _(Sep 2016 - Jun 2018)_ <br>
