@@ -12,11 +12,12 @@ clement-foltran                       1/1     Running   0          23y
 
 ## 👨‍💻 Experiences
 
-### **Software engineer** @[panierdachat.com](https://panierdachat.com) *(from Oct 2021)*
+### **Software engineer** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 *(from Oct 2021)*
 - **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling updates, horizontal and vertical autoscale ensures the high availability of the product.
 - Create **dev workflow** with github actions. Deployments are automatically deployed and versioned on staging cluster. Then, developments are automatically deployed on production cluster.
+Technologies: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
-### **R&D engineer** @[Ateme](https://www.ateme.com) *(Dec 2019 - Dec 2021)*<br>
+### **R&D engineer** @[Ateme](https://www.ateme.com), Paris *(Dec 2019 - Dec 2021)*<br>
 - **Anevia cloud services (6 first months):**
 Development and administration of a management platform for more than 800 servers broadcasting OTT content in hotels, hospitals and more.<br>
 Technologies: Angular 9, Django, Kubernetes, Docker, Postgresql, algolia, GitLab pipelines
@@ -29,7 +30,7 @@ Technologies: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pi
 Development of a platform for managing unsold textiles, incubated at Station F by the French Fashion Institute.
 
 
-### **Front-end developer** internship @[Soneka.am](https://www.soneka.am) *(Apr 2018 - Aug 2019)*<br>
+### **Front-end developer** internship @[Soneka.am](https://www.soneka.am), Paris *(Apr 2018 - Aug 2019)*<br>
 Develop an asset management platform with Angular
 
 # 💡 Projects
