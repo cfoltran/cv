@@ -36,7 +36,7 @@ Develop an asset management platform with Angular
 # 💡 Projects
 
 **[loawn.com](https://loawn.herokuapp.com)** - status paused ⏸<br>
-Created during the first lockdown, *loawn is the acronym of local area workers network*. When you sign up you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
+Created during the first lockdown, *loawn is the acronym of local area workers network*. When you sign up, you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
 Technologies: Websockets, MongoDB, Node.js, Express.js, geolocation
 
 **[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminated ⏹<br>
@@ -49,7 +49,7 @@ Technologies: Nuxt
 2 days that led us to the creation of a [platform](https://github.com/owalid/Collabathon_2019) interpreting climate data.
 
 **HEC design thinking:**<br>
-1 month of reflection around the issue of sustainable development. We created a platform to recycle textile wastes. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This are made available to designers or recycling factories. This platform will allow us to obtain the first place allowing us to be incubated at Station F for 1 year. 
+1 month around the issue of sustainable development. We created a platform to recycle textile wastes. Our solution allows to connect directly companies ERP in order to access to the unsold goods. This, are made available to designers or recycling factories. We won the first place allowing us to be incubated at Station F for 1 year. 
 
 ## ✅ Google Kubernetes certifications
 
@@ -72,12 +72,12 @@ French 🇫🇷 and english 🇬🇧
 
 **42 Paris**<br>
 [42.fr](https://42.fr/) - Paris, France _(Aug 2018 - Jun 2020)_ <br>
-42 is one of the most difficult programming school. The entrance exam takes place over a month. Every day, exercises on the C language and a group project on weekends.
+42 is one of the most difficult programming school. The entrance exam takes place over a month. Every day, exercises on C language and a group project on weekends.
 Only one function to write an ascii character is allowed:<br>
 `write(int fd, const void *buf, size_t count);`<br>
 If you need another function you have to recode it (except malloc). Beside some projects.
 
-- [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. When a user chooses a movie, our API uploads the movie to our server and streams the content in FFMPEG. The movie is kept on our servers for 10 days.<br>
+- [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. When a user chooses a movie, our API uploads the movie to our server and streams the content with FFMPEG. The movie is kept on our servers for 10 days.<br>
 Technologies: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
 ⚠️ Warning: the use of this application is illegal
 - [Qinder](https://github.com/cfoltran/qinder): This is a tinder clone realized with PostgresSQL and Angular.
