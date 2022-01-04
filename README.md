@@ -35,7 +35,7 @@ Develop an asset management platform with Angular
 
 # 💡 Projects
 
-**[loawn.com](https://loawn.herokuapp.com)** - status paused ⏸<br>
+**[loawn.net](https://www.loawn.net)** - status paused ⏸<br>
 Created during the first lockdown, *loawn is the acronym of local area workers network*. When you sign up, you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
 Technologies: Websockets, MongoDB, Node.js, Express.js, geolocation
 
