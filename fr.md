@@ -1,7 +1,7 @@
 ![Spellcheck](https://github.com/cfoltran/cv/actions/workflows/main.yaml/badge.svg)
 # Clément Foltran
 
-### Développeur full-stack freelance | Angular, Node.js, Kubernetes<br>
+## Développeur full-stack freelance | Angular, Node.js, Kubernetes<br>
 ```
 kubectl get pods --context=🇫🇷
 NAME                                  READY   STATUS    RESTARTS   AGE
