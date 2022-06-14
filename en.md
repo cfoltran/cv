@@ -3,7 +3,7 @@
 
 ### Software engineer<br>
 ```
-kubectl get pods --context=🇨🇦
+kubectl get pods --context=🇫🇷
 NAME                                  READY   STATUS    RESTARTS   AGE
 clement-foltran                       1/1     Running   0          24y
 ```
@@ -33,7 +33,7 @@ Development of a platform for managing unsold textiles, incubated at Station F b
 ### **Front-end developer** internship @[Soneka.am](https://www.soneka.am), Paris *(Apr 2018 - Aug 2019)*<br>
 Develop an asset management platform with Angular
 
-# 💡 Projects
+## 💡 Projects
 
 **[loawn.net](https://www.loawn.net)** - status paused ⏸<br>
 Created during the first lockdown, *loawn is the acronym of local area workers network*. When you sign up, you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.<br>
