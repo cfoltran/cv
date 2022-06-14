@@ -19,9 +19,8 @@ Panierdachat est une entreprise québécoise permettant la création de site e-c
 - Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production.
 **👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
-### **Ingénieur R&D** @[Ateme](https://www.ateme.com), Paris *(Dec 2019 - Dec 2021)*<br>
+### **Ingénieur R&D** @[Ateme](https://www.ateme.com), Paris *(Dec 2019 - Dec 2021)
 Ateme est une entreprise proposant des solutions dans le domaine de la vidéo. À l'origine chez Anevia, entreprise crée par les fondateurs de VLC, notre rachat nous a propulsé comme leader de notre secteur.Passer de 100 à 500 collaborateur a été une expérience très riche.
-<br>
 - **Anevia cloud services (6 premiers mois):**
 Développement et administration d'une plateforme gérant 800 boitiers diffusant du contenu OTT dans des hôtels, hôpitaux... 
 
@@ -30,21 +29,19 @@ Application web permettant de gérer des instances de cache vidéo sur de multip
 
 **👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
 
-### **Co-fondateur** @Stoke *(Fev 2018 - Jan 2020)*<br>
+### **Co-fondateur** @Stoke *(Fev 2018 - Jan 2020)*
 Déploiement d'une plateforme de gestion des invendus textiles. Ce projet fût incubé à Station F par l'institut Français de la mode.
 
-### **Stage développeur Front-end** @[Soneka.am](https://www.soneka.am), Paris *(Apr 2018 - Aug 2019)*<br>
+### **Stage développeur Front-end** @[Soneka.am](https://www.soneka.am), Paris *(Apr 2018 - Aug 2019)*
 Develop an asset management platform with Angular
 
-## 💡 Projects<br>
+## 💡 Projects
 **[loawn.net](https://www.loawn.net)** - status en pause ⏸<br>
 Créé pendant le premier confinement, loawn est l'acronyme pour *local area worker network*. À l'inscription l'utilisateur est assigné à un "cluster" (chat) avec tous les télétravailleurs inscrit à 1km à la ronde. Il peut alors échanger, prendre une pause, s'entraider, participer à des événements.
-
 **👨‍💻 Technologies**: Websockets, MongoDB, Node.js, Express.js, geolocation
 
-**[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminé ⏹<br>
+**[cococertif.com](https://github.com/cfoltran/covid-attestation-gen)** - status terminé ⏹
 Cette application permettait d'enregister vos information dans le cache de votre téléphone, et de générer automatiquement des attestations de déplacement dérogatoire (même hors ligne).
-
 **👨‍💻 Technologies**: Nuxt
 
 ## 🥷 Hackathons
@@ -62,11 +59,9 @@ Cette application permettait d'enregister vos information dans le cache de votre
 [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/ZKDKE4QT9DAU)
 
 ## 💪 Sports
-
 Trail, course à pied
 
 ## 💬 Languages
-
 Français 🇫🇷
 Anglais 🇬🇧
 
