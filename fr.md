@@ -1,7 +1,7 @@
 ![Spellcheck](https://github.com/cfoltran/cv/actions/workflows/main.yaml/badge.svg)
 # Clément Foltran
 
-### Software engineer<br>
+### Développeur full-stack freelance | Angular, Node.js, Kubernetes<br>
 ```
 kubectl get pods --context=🇫🇷
 NAME                                  READY   STATUS    RESTARTS   AGE
@@ -16,34 +16,18 @@ clement-foltran                       1/1     Running   0          24y
 
 Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connu une croissance exponencielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
 
-* REFONTE DES FICHIERS DE DEPLOIEMENTS :<br>
-Les fichiers de déploiement de la production et de la staging étaient différents, les erreurs étaient donc courantes. J'ai revu tous nos fichiers de déploiement, installé Helm (langage de templating) afin de centraliser nos déploiements dans des fichiers uniques modulables. Ce travail permet d'avoir une seule commande helm pour déployer, désinstaller, mettre à jour, tout en assurant un versionnement).
-
-* MISE EN PLACE DU DEPLOIEMENT ROULANT : <br>
-Avant mon arrivée, les mises en production entrainaient des interruptions de services pouvant aller jusqu'à 15 minutes. J'ai donc mis en place un déploiement roulant, le trafic n'est pas redirigé vers la nouvelle version tant que les pods ("serveurs") ne sont pas prêt à traiter les requêtes. Ce travail, contribuera à notre nouveau score de haute disponibilité (99% sur 8 mois).
-
-* MISE EN PLACE DES CI/CD :<br>
-Jusqu'alors, les déploiements mobilisaient à minima une personne, parfois jusqu'à une demi-journée. Mon travail fut de mettre en place des déploiements automatique dès qu'une personne pousse du code sur nos 3 dépôts GitHub : Nouveauté sur staging : une pipeline lance automatiquement la construction de l'image et son déploiement sur la staging. En 4 minutes, la nouvelle version est disponible sans aucune interruption de service. Nouveaux tag : le même processus est effectué mais sur nos serveurs de production.
-
-* MISE EN PLACE DES TESTS END TO END :<br>
-Au fur et à mesure du développement de la plateforme, des nouveaux collaborateurs, les bugs augmentaient. J'ai donc convaincu les créateurs dans la nécessité des tests. J'ai alors créer un projet de tests e2e en Cypress qui eux aussi bénéficient d'une CI/CD, permettant de les lancer chaque nuit sur les branches des devs et avant chaque mise en production.
-
-* RESOLUTIONS DES PROBLÉMATIQUES LIÉES À LA CHARGE : <br>
-Une des principale problématique était notre manque de résilience durant les périodes à fort pic (black friday, ventes éclairs...). Dans un premier temps, j'ai revu les ressources en période de charge normale. Ce travail aura permis de diviser par deux les coûts d'infrastructure. Dans un second temps, j'ai mis en place un système d'autoscaling (horizontal et vertical). En cas de forte charge, notre infrastructure peut ajouter des instances afin de supporter le pic. Cette dernière peut même ajouter une machine afin d'augmenter nos ressources verticalement.
+- **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, horizontal and vertical assure la haute disponibilité du produit.
+- Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production.
+**👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
 ### **Ingénieur R&D** @[Ateme](https://www.ateme.com), Paris *(Dec 2019 - Dec 2021)*<br>
 Ateme est une entreprise proposant des solutions dans le domaine de la vidéo. À l'origine chez Anevia, entreprise crée par les fondateurs de VLC, notre rachat nous a propulsé comme leader de notre secteur.Passer de 100 à 500 collaborateur a été une expérience très riche.
 
+- **Anevia cloud services (6 premiers mois):**
+Développement et administration d'une plateforme gérant 800 boitiers diffusant du contenu OTT dans des hôtels, hôpitaux... 
 
-**Anevia cloud services (6 premiers mois):**
-
-Plateforme de gestion de 800 boitiers diffusant du contenu à la demande dans des hôtels, hopitaux, yahts...
-
-**Anevia pilot:**
-
-* Pilot, est une solution de gestion de serveurs de cache diffusant du contenu à la de demande. Une application web permet la gestion, le monitoring de cluster kubernetes, déployer des instances de cache.<br>
-
-* Dans le cadre de mon travail sur Pilot, j'ai du réaliser une solution de monitoring intégré à notre plateforme. J'ai développé un module permettant d'ajouter des graphes simplement en éditant un fichier JSON avec des requêtes Prometheus. C'est en quelque sorte une reproduction de Grafana en interne.
+- **Anevia pilot:**
+Application web permettant de gérer des instances de cache vidéo sur de multiples cluster kubernetes. Pilot est utilisé par de grand acteurs comme MyTF1, MyCanal, pour satisfaire la demande de contenu à la demande ou en direct.
 
 **👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
 
