@@ -1,6 +1,6 @@
 ![Spellcheck](https://github.com/cfoltran/cv/actions/workflows/main.yaml/badge.svg)
 
-![Fichier_1](https://user-images.githubusercontent.com/20615871/173636207-e4c1e205-e0b8-4933-a566-a1dc82344e01.svg)
+# **Clement Foltran**
 
 # Développeur full-stack freelance | Angular, Node.js, Kubernetes<br>
 ```
@@ -68,7 +68,7 @@ Anglais 🇬🇧
 
 # 👨‍🎓 Formation
 
-**42 Paris**<br>
+## 42 Paris<br>
 [42.fr](https://42.fr/) - Paris, France _(Août 2018 - Juin 2020)_ <br>
 42 est l'une des formations informatique les plus selectives. L'examen d'entrée s'étend sur un mois rythmé par des exercices en C très bas niveau afin de comprendre le fonctionnement d'un ordinateur.
 Une seule fonction permettant d'afficher un caractère ASCII est autorisée :
@@ -77,10 +77,12 @@ Une seule fonction permettant d'afficher un caractère ASCII est autorisée :
 
 Si tu as besoin d'une autre fonction, tu dois la recoder (excepté malloc).
 
-<!-- - [Hypertube](https://github.com/owalid/hypertube): Application that allows the user to search and watch free movies on a great interface. Our API scrapped YTS, popcorn databases to retrieve torrent hashes. When a user chooses a movie, our API uploads the movie to our server and streams the content with FFMPEG. The movie is kept on our servers for 10 days.<br>
-Technologies: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
-⚠️ Warning: the use of this application is illegal
-- [Qinder](https://github.com/cfoltran/qinder): This is a tinder clone realized with PostgresSQL and Angular. -->
+- [Hypertube](https://github.com/owalid/hypertube): Application permettant de rechercher et de regarder plus de 10 000 films gratuitement sur une interface semblable à Netflix. Notre API parcourt les bases de données de YTS et popcorn pour sauvegarder des hash de torrent. Quand un utilisateur choisit un film, notre API télécharge le torrent sur nos serveur et stream le contenu en FFMPEG.
+⚠️ Attention : l'utilisation de cette application est illégal
+**👨‍💻 Technologies**: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
 
-**Université Paris Saclay** - DUT Informatique<br>
+- [Qinder](https://github.com/cfoltran/qinder): Clone de tinder
+**👨‍💻 Technologies**: Angular, Node.js, PostgreSQL<br>
+
+## Université Paris Saclay - DUT Informatique<br>
 Paris, France _(Septembre 2016 - Juin 2018)_ <br>
