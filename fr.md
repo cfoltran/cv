@@ -77,11 +77,11 @@ Une seule fonction permettant d'afficher un caractère ASCII est autorisée :
 
 Si tu as besoin d'une autre fonction, tu dois la recoder (excepté malloc).
 
-- [Hypertube](https://github.com/owalid/hypertube): Application permettant de rechercher et de regarder plus de 10 000 films gratuitement sur une interface semblable à Netflix. Notre API parcourt les bases de données de YTS et popcorn pour sauvegarder des hash de torrent. Quand un utilisateur choisit un film, notre API télécharge le torrent sur nos serveur et stream le contenu en FFMPEG.
-⚠️ Attention : l'utilisation de cette application est illégal
-**👨‍💻 Technologies**: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
+- [Hypertube](https://github.com/owalid/hypertube): Application permettant de rechercher et de regarder plus de 10 000 films gratuitement sur une interface semblable à Netflix. Notre API parcourt les bases de données de YTS et popcorn pour sauvegarder des hash de torrent. Quand un utilisateur choisit un film, notre API télécharge le torrent sur nos serveurs et stream le contenu en FFMPEG.
+⚠️ Attention : l'utilisation de cette application est illégale<br>
+**👨‍💻 Technologies**: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js
 
-- [Qinder](https://github.com/cfoltran/qinder): Clone de tinder
+- [Qinder](https://github.com/cfoltran/qinder): Clone de tinder<br>
 **👨‍💻 Technologies**: Angular, Node.js, PostgreSQL<br>
 
 ## Université Paris Saclay - DUT Informatique<br>
