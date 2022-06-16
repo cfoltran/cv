@@ -14,6 +14,7 @@
 
 * **Build the entire orchestrate infrastructure** with Kubernetes, Helm and AWS. Rolling updates, horizontal and vertical autoscale ensures the high availability of the product.
 * Create **dev workflow** with github actions. Deployments are automatically deployed and versioned on staging cluster. Then, developments are automatically deployed on production cluster.\
+
   Technologies: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
 #### **R\&D engineer** @[Ateme](https://www.ateme.com), Paris _(Dec 2019 - Dec 2021)_ 
