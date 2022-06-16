@@ -10,9 +10,9 @@ _**Développeur full-stack freelance**_
 
 ### **Ingénieur logiciel** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 _(depuis Oct 2021)_
 
-Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connu une croissance exponencielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
+Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connue une croissance exponencielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
 
-* **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, horizontal and vertical assure la haute disponibilité du produit.
+* **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, la mise à l'échelle horizontale et verticale assure la haute disponibilité du produit.
 * Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production. **👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
 ### **Ingénieur R\&D** @[Ateme](https://www.ateme.com), Paris \*(Dec 2019 - Dec 2021)
@@ -20,9 +20,7 @@ Panierdachat est une entreprise québécoise permettant la création de site e-c
 Ateme est une entreprise proposant des solutions dans le domaine de la vidéo. À l'origine chez Anevia, entreprise crée par les fondateurs de VLC, notre rachat nous a propulsé comme leader de notre secteur.Passer de 100 à 500 collaborateur a été une expérience très riche.
 
 * **Anevia cloud services (6 premiers mois):** Développement et administration d'une plateforme gérant 800 boitiers diffusant du contenu OTT dans des hôtels, hôpitaux...
-* **Anevia pilot:** Application web permettant de gérer des instances de cache vidéo sur de multiples cluster kubernetes. Pilot est utilisé par de grand acteurs comme MyTF1, MyCanal, pour satisfaire la demande de contenu à la demande ou en direct.
-
-**👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
+* **Anevia pilot:** Application web permettant de gérer des instances de cache vidéo sur de multiples cluster kubernetes. Pilot est utilisé par de grand acteurs comme MyTF1, MyCanal, pour satisfaire la demande de contenu à la demande ou en direct **👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
 
 ### **Co-fondateur** @Stoke _(Fev 2018 - Jan 2020)_
 
