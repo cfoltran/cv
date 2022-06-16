@@ -15,12 +15,14 @@ Panierdachat est une entreprise québécoise permettant la création de site e-c
 * **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, la mise à l'échelle horizontale et verticale assure la haute disponibilité du produit.
 * Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production. **👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
 
-### **Ingénieur R\&D** @[Ateme](https://www.ateme.com), Paris \*(Dec 2019 - Dec 2021)
+### **Ingénieur R&D** @[Ateme](https://www.ateme.com), Paris \*(Dec 2019 - Dec 2021)
 
 Ateme est une entreprise proposant des solutions dans le domaine de la vidéo. À l'origine chez Anevia, entreprise crée par les fondateurs de VLC, notre rachat nous a propulsé comme leader de notre secteur.Passer de 100 à 500 collaborateur a été une expérience très riche.
 
 * **Anevia cloud services (6 premiers mois):** Développement et administration d'une plateforme gérant 800 boitiers diffusant du contenu OTT dans des hôtels, hôpitaux...
-* **Anevia pilot:** Application web permettant de gérer des instances de cache vidéo sur de multiples cluster kubernetes. Pilot est utilisé par de grand acteurs comme MyTF1, MyCanal, pour satisfaire la demande de contenu à la demande ou en direct **👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
+* **Anevia pilot:** Application web permettant de gérer des instances de cache vidéo sur de multiples cluster kubernetes. Pilot est utilisé par de grand acteurs comme MyTF1, MyCanal, pour satisfaire la demande de contenu à la demande ou en direct 
+
+**👨‍💻 Technologies**: Angular 11, GO, Kubernetes, Docker, Postgresql, Cypress, GitLab pipelines
 
 ### **Co-fondateur** @Stoke _(Fev 2018 - Jan 2020)_
 
@@ -35,7 +37,9 @@ Développement d'une plateforme de gestion d'actifs (asset management) en **Angu
 [**loawn.net**](https://www.loawn.net) - status en pause ⏸\
 Créé pendant le premier confinement, loawn est l'acronyme pour _local area worker network_. À l'inscription l'utilisateur est assigné à un "cluster" (chat) avec tous les télétravailleurs inscrit à 1km à la ronde. Il peut alors échanger, prendre une pause, s'entraider, participer à des événements. **👨‍💻 Technologies**: Websockets, MongoDB, Node.js, Express.js, geolocation
 
-[**cococertif.com**](https://github.com/cfoltran/covid-attestation-gen) - status terminé ⏹ Cette application permettait d'enregister vos information dans le cache de votre téléphone, et de générer automatiquement des attestations de déplacement dérogatoire (même hors ligne). **👨‍💻 Technologies**: Nuxt
+[**cococertif.com**](https://github.com/cfoltran/covid-attestation-gen) - status terminé ⏹ Cette application permettait d'enregister vos information dans le cache de votre téléphone, et de générer automatiquement des attestations de déplacement dérogatoire (même hors ligne).
+
+**👨‍💻 Technologies**: Nuxt
 
 ## 🥷 Hackathons
 
@@ -70,11 +74,14 @@ Français 🇫🇷 Anglais 🇬🇧
 Si tu as besoin d'une autre fonction, tu dois la recoder (excepté malloc).
 
 * [Hypertube](https://github.com/owalid/hypertube): Application permettant de rechercher et de regarder plus de 10 000 films gratuitement sur une interface semblable à Netflix. Notre API parcourt les bases de données de YTS et popcorn pour sauvegarder des hash de torrent. Quand un utilisateur choisit un film, notre API télécharge le torrent sur nos serveurs et stream le contenu en FFMPEG. ⚠️ Attention : l'utilisation de cette application est illégale\
+  
   **👨‍💻 Technologies**: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js
+
 * [Qinder](https://github.com/cfoltran/qinder): Clone de tinder\
-  **👨‍💻 Technologies**: Angular, Node.js, PostgreSQL\
+  
+  **👨‍💻 Technologies**: Angular, Node.js, PostgreSQL
 
 
 ### Université Paris Saclay - DUT Informatique
 
-Paris, France _(Septembre 2016 - Juin 2018)_\
+Paris, France _(Septembre 2016 - Juin 2018)_
