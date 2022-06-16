@@ -10,7 +10,7 @@ _**Développeur full-stack freelance**_
 
 ### **Ingénieur logiciel** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 _(depuis Oct 2021)_
 
-Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connue une croissance exponentielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
+Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connu une croissance exponentielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
 
 * **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, la mise à l'échelle horizontale et verticale assure la haute disponibilité du produit.
 * Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production. **👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
@@ -37,7 +37,8 @@ Développement d'une plateforme de gestion d'actifs (asset management) en **Angu
 [**loawn.net**](https://www.loawn.net) - status en pause ⏸\
 Créé pendant le premier confinement, loawn est l'acronyme pour _local area worker network_. À l'inscription l'utilisateur est assigné à un "cluster" (chat) avec tous les télétravailleurs inscrit à 1km à la ronde. Il peut alors échanger, prendre une pause, s'entraider, participer à des événements. **👨‍💻 Technologies**: Websockets, MongoDB, Node.js, Express.js, geolocation
 
-[**cococertif.com**](https://github.com/cfoltran/covid-attestation-gen) - status terminé ⏹ Cette application permettait d'enregister vos information dans le cache de votre téléphone, et de générer automatiquement des attestations de déplacement dérogatoire (même hors ligne).
+[**cococertif.com**](https://github.com/cfoltran/covid-attestation-gen) - status terminé ⏹\
+Cette application permettait d'enregister vos information dans le cache de votre téléphone, et de générer automatiquement des attestations de déplacement dérogatoire (même hors ligne).
 
 **👨‍💻 Technologies**: Nuxt
 
