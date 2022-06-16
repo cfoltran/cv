@@ -10,7 +10,7 @@ _**Développeur full-stack freelance**_
 
 ### **Ingénieur logiciel** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 _(depuis Oct 2021)_
 
-Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connue une croissance exponencielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
+Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connue une croissance exponentielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
 
 * **Contruction de l'infrastructure élastique** avec Kubernetes, Helm et AWS. Rolling updates, la mise à l'échelle horizontale et verticale assure la haute disponibilité du produit.
 * Création du **workflow dev** avec des github actions. Les développements sont automatiquement deployés et versionnés sur le cluster de test puis de production. **👨‍💻 Technologies**: Nuxt, Helm, Kubernetes, Docker, Prometheus, Grafana, DigitalOcean cloud
@@ -28,7 +28,7 @@ Déploiement d'une plateforme de gestion des invendus textiles. Ce projet fût i
 
 ### **Stage développeur Front-end** @[Soneka.am](https://www.soneka.am), Paris _(Apr 2018 - Aug 2019)_
 
-Develop an asset management platform with Angular
+Développement d'une plateforme de gestion d'actifs (asset management) en **Angular**
 
 ## 💡 Projects
 
