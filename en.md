@@ -32,7 +32,7 @@ Development of a platform for managing unsold textiles, incubated at Station F b
 
 Develop an asset management platform with Angular
 
-### 💡 Projects
+### 💡 Projets
 
 [**loawn.net**](https://www.loawn.net) - status paused ⏸\
 Created during the first lockdown, _loawn is the acronym of local area workers network_. When you sign up, you are assigned to a "cluster" (chat) with all the teleworkers around you. You can exchange, meet, take a break, help, participate or organize events.\
