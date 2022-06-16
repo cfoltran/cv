@@ -3,11 +3,6 @@
 # **Clement Foltran**
 
 # Développeur full-stack freelance | Angular, Node.js, Kubernetes<br>
-```
-kubectl get pods --context=🇫🇷
-NAME                                  READY   STATUS    RESTARTS   AGE
-clement-foltran                       1/1     Running   0          24y
-```
 
 [Email](mailto:clement.foltran@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/clementfoltran/) / [GitHub](https://github.com/cfoltran/)
 

@@ -2,11 +2,6 @@
 # Clément Foltran
 
 ### Software engineer<br>
-```
-kubectl get pods --context=🇫🇷
-NAME                                  READY   STATUS    RESTARTS   AGE
-clement-foltran                       1/1     Running   0          24y
-```
 
 [Email](mailto:clement.foltran@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/clementfoltran/) / [GitHub](https://github.com/cfoltran/)
 
@@ -84,3 +79,9 @@ Technologies: MongoDB, Vue, Vuetify, IPTV, Node.js, Express.js<br>
 
 **Paris Saclay university** - IT university full course diploma<br>
 Paris, France _(Sep 2016 - Jun 2018)_ <br>
+
+<!-- ```
+kubectl get pods --context=🇫🇷
+NAME                                  READY   STATUS    RESTARTS   AGE
+clement-foltran                       1/1     Running   0          24y
+``` -->
