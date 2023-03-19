@@ -8,7 +8,13 @@ _**Développeur full-stack freelance**_
 
 ## 👨‍💻 Expériences
 
-### **Ingénieur logiciel** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 _(depuis Oct 2021)_
+### **Ingénieur logiciel** @[microport](https://microport.com), Paris _(depuis Juin 2022)_
+
+Microport est une entreprise spécialisée dans les dispositifs médicaux (pacemakers, holters...). L'objet de cette mission fut la contruction d'une interface tactile sur tablette médicale. Cette interface permet de programmer et suivre un pacemaker de son implantation jusqu'à sa fin de vie.
+
+👨‍💻 Technologies**: Angular, NGRX
+
+### **Ingénieur logiciel** @[panierdachat.com](https://panierdachat.com), Montréal 🇨🇦 _(Oct 2021 - Juin 2022)_
 
 Panierdachat est une entreprise québécoise permettant la création de site e-commerce simplement. Durant la pandémie, elle a connu une croissance exponentielle mettant à mal l'infrastructure existante. Les nombreux clients inscrits ont rencontré beaucoup de désagréments suite aux diverses interruptions de services. Ma mission : rendre l'infrastructure élastique aux pics de charges (ex: soldes).
 
