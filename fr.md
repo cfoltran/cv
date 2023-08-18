@@ -8,6 +8,12 @@ _**Développeur full-stack freelance**_
 
 ## 👨‍💻 Expériences
 
+### **Ingénieur logiciel** @[yuzu](https://yuzu.green), Paris _(depuis Mai 2023)_
+
+Spécialisé dans la cryptomonnaie, Yuzu est une application mobile (IOS et Android) permettant d'acheter et d'échanger. Yuzu se différencie par sa simplicité, l'achat de très jeune crypto, le conseil et le p2p permettant l'envoie de crypto ou d'euro par SMS (comme Lydia). Durant cette mission, j'ai refait entièrement le design et l'UX de l'application, participé au développement de nouvelles fonctionnalités comme l'achat récurrent, l'amélioration de la fluidité. J'ai également participé au développement backend et devops de l'application. Depuis que je travail sur l'application la note moyenne sur le store IOS est passé de 4.3 à 4.6 en moins de deux mois.
+
+**👨‍💻 Technologies**: Flutter, Node.js, PostgreSQL, AWS, Terraform
+
 ### **Ingénieur logiciel** @[microport](https://microport.com), Paris _(depuis Juin 2022)_
 
 Microport est une entreprise spécialisée dans les dispositifs médicaux (pacemakers, holters...). L'objet de cette mission fut la contruction d'une interface tactile sur tablette médicale. Cette interface permet de programmer et suivre un pacemaker de son implantation jusqu'à sa fin de vie.
