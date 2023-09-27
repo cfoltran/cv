@@ -10,7 +10,7 @@ _**Développeur full-stack freelance**_
 
 ### **Ingénieur logiciel** @[yuzu](https://yuzu.green), Paris _(depuis Mai 2023)_
 
-Spécialisé dans la cryptomonnaie, Yuzu est une application mobile (IOS et Android) permettant d'acheter et d'échanger. Yuzu se différencie par sa simplicité, l'achat de très jeune crypto, le conseil et le p2p permettant l'envoie de crypto ou d'euro par SMS (comme Lydia). Durant cette mission, j'ai refait entièrement le design et l'UX de l'application, participé au développement de nouvelles fonctionnalités comme l'achat récurrent, l'amélioration de la fluidité. J'ai également participé au développement backend et devops de l'application. Depuis que je travail sur l'application la note moyenne sur le store IOS est passé de 4.3 à 4.6 en moins de deux mois.
+Spécialisé dans la cryptomonnaie, Yuzu est une application mobile (IOS et Android) permettant d'acheter et d'échanger. Yuzu se différencie par sa simplicité, l'achat de très jeune crypto, le conseil et le p2p permettant l'envoie de crypto ou d'euro par SMS (comme Lydia). Durant cette mission, j'ai refait entièrement l'application, participé au développement de nouvelles fonctionnalités comme l'achat récurrent, l'achat de petites cryptos, le scoring et l'amélioration de la fluidité. J'ai également participé au développement backend et devops de l'application. Depuis que je travail sur l'application la note moyenne sur le store IOS est passé de 4.3 à 4.6 en moins de deux mois.
 
 **👨‍💻 Technologies**: Flutter, Node.js, PostgreSQL, AWS, Terraform
 
