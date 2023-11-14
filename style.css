@@ -7,15 +7,13 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  padding-left: 40px;
-  padding-right: 40px;
 }
 img {
+  width: 100px;
+  border-radius: 16px;
   position: absolute;
   top: 20px;
-  left: 20px;
-  width: 150px;
-  border-radius: 16px;
+  right: 20px;
 }
 @media (max-width: 767px) {
   img {
