@@ -11,7 +11,8 @@
       <section>
         <img src="assets/img/me.JPG" alt="Clément Foltran's Profile">
         <div class="game">
-            <button onclick="startGame()">Test technique</button>
+          <button onclick="startGame()">Test technique</button>
+          <div id="score" style="color: red;">Score: 0</div>
         </div>
         <h1><strong>CLÉMENT FOLTRAN</strong></h1>
         <h2>
@@ -287,48 +288,61 @@
   <div class="red-dot" id="red-dot"></div>
 
   <script>
-    let gameInterval;
-    let gameTimer;
+    let score = 0;
     let gameActive = false;
-
+    let pointTimeout, gameInterval;
+    
     function startGame() {
-      if (gameActive) {
-        return; // Game is already active
-      }
-
+      if (gameActive) return; // Prevent restarting the game if it's already active
+      
       gameActive = true;
-      document.querySelector(".game button").disabled = true;
-
-      // Start the game loop
-      gameInterval = setInterval(placeRedDot, 2000); // Place a red dot every 2 seconds
-      gameTimer = setTimeout(endGame, 4000); // End the game after 4 seconds
+      score = 0;
+      updateScore();
+    
+      gameInterval = setInterval(placeRedDot, 500);
     }
-
+    
     function placeRedDot() {
-      const redDot = document.getElementById("red-dot");
-      const maxX = window.innerWidth - 20; // Adjust for dot size
-      const maxY = window.innerHeight - 20; // Adjust for dot size
-
-      // Generate random X and Y coordinates
+      const redDot = document.getElementById('red-dot');
+      const maxX = window.innerWidth - 200; // Adjust for dot size
+      const maxY = window.innerHeight - 200; // Adjust for dot size
+    
       const randomX = Math.floor(Math.random() * maxX);
       const randomY = Math.floor(Math.random() * maxY);
-
-      // Set the red dot's position
-      redDot.style.left = randomX + "px";
-      redDot.style.top = randomY + "px";
-
-      // Show the red dot
-      redDot.style.display = "block";
+    
+      redDot.style.left = randomX + 'px';
+      redDot.style.top = randomY + 'px';
+      redDot.style.display = 'block';
+    
+      pointTimeout = setTimeout(() => {
+        redDot.style.display = 'none';
+        endGame();
+      }, 2000);
     }
-
+    
+    function dotClicked() {
+      if (!gameActive) return;
+    
+      clearTimeout(pointTimeout);
+      score++;
+      updateScore();
+    
+      const redDot = document.getElementById('red-dot');
+      redDot.style.display = 'none';
+    }
+    
+    function updateScore() {
+      const scoreDisplay = document.getElementById('score');
+      scoreDisplay.textContent = 'Score: ' + score;
+    }
+    
     function endGame() {
-      clearInterval(gameInterval);
-      document.querySelector(".game button").disabled = false;
       gameActive = false;
-
-      // Hide the red dot
-      const redDot = document.getElementById("red-dot");
-      redDot.style.display = "none";
+      clearInterval(gameInterval);
+      alert('Game Over! Your score was: ' + score);
     }
-  </script>
+    
+    document.getElementById('red-dot').addEventListener('click', dotClicked);
+    </script>
+    
 </html>
