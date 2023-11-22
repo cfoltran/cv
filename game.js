@@ -7,7 +7,7 @@ let clem = 0;
 function getIntervalTime() {
   const baseInterval = 1000;
   const minimumInterval = 500;
-  const intervalReduction = 10;
+  const intervalReduction = 30;
 
   console.log(
     Math.max(minimumInterval, baseInterval - score * intervalReduction)
