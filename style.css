@@ -8,6 +8,11 @@ body {
   margin: 0 auto;
   padding: 20px;
 }
+.game {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .game button {
   background-color: #007bff;
   color: #fff;
@@ -21,14 +26,17 @@ body {
 .game button:hover {
   background-color: #0056b3;
 }
+#score {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
 .red-dot {
   background: url("assets/img/avatar.png");
   background-size: cover;
   position: absolute;
   width: 100px;
   height: 100px;
-  /* border-radius: 50%; */
-  display: none;
 }
 img {
   width: 100px;

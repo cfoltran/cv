@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>cfoltran</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="game.js"></script>
   </head>
   <body>
     <div class="container">
       <section>
-        <img src="assets/img/me.JPG" alt="Clément Foltran's Profile">
+        <img src="assets/img/me.JPG" alt="Clément Foltran's Profile" />
         <div class="game">
-          <button onclick="startGame()">Test technique</button>
-          <div id="score" style="color: red;">Score: 0</div>
+          <button onclick="startGame()">Test recruteur</button>
+          <div id="score">Score: 0</div>
         </div>
         <h1><strong>CLÉMENT FOLTRAN</strong></h1>
         <h2>
@@ -31,7 +32,8 @@
         <article>
           <h3>
             <strong>Ingénieur logiciel</strong>
-            <a href="https://apps.apple.com/fr/app/yuzu/id6443933811">yuzu</a>, Paris (depuis Mai 2023)
+            <a href="https://apps.apple.com/fr/app/yuzu/id6443933811">yuzu</a>,
+            Paris (depuis Mai 2023)
           </h3>
           <p>
             Spécialisé dans la cryptomonnaie, Yuzu est une application mobile
@@ -283,66 +285,4 @@
       </section>
     </div>
   </body>
-
-  <!-- Red dot for the game -->
-  <div class="red-dot" id="red-dot"></div>
-
-  <script>
-    let score = 0;
-    let gameActive = false;
-    let pointTimeout, gameInterval;
-    
-    function startGame() {
-      if (gameActive) return; // Prevent restarting the game if it's already active
-      
-      gameActive = true;
-      score = 0;
-      updateScore();
-    
-      gameInterval = setInterval(placeRedDot, 500);
-    }
-    
-    function placeRedDot() {
-      const redDot = document.getElementById('red-dot');
-      const maxX = window.innerWidth - 200; // Adjust for dot size
-      const maxY = window.innerHeight - 200; // Adjust for dot size
-    
-      const randomX = Math.floor(Math.random() * maxX);
-      const randomY = Math.floor(Math.random() * maxY);
-    
-      redDot.style.left = randomX + 'px';
-      redDot.style.top = randomY + 'px';
-      redDot.style.display = 'block';
-    
-      pointTimeout = setTimeout(() => {
-        redDot.style.display = 'none';
-        endGame();
-      }, 2000);
-    }
-    
-    function dotClicked() {
-      if (!gameActive) return;
-    
-      clearTimeout(pointTimeout);
-      score++;
-      updateScore();
-    
-      const redDot = document.getElementById('red-dot');
-      redDot.style.display = 'none';
-    }
-    
-    function updateScore() {
-      const scoreDisplay = document.getElementById('score');
-      scoreDisplay.textContent = 'Score: ' + score;
-    }
-    
-    function endGame() {
-      gameActive = false;
-      clearInterval(gameInterval);
-      alert('Game Over! Your score was: ' + score);
-    }
-    
-    document.getElementById('red-dot').addEventListener('click', dotClicked);
-    </script>
-    
 </html>
