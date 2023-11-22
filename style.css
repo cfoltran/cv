@@ -2,6 +2,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
+  cursor: url("assets/cursor.cur"), auto;
 }
 .container {
   max-width: 800px;
