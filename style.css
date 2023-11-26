@@ -9,6 +9,19 @@ body {
   margin: 0 auto;
   padding: 20px;
 }
+#score-board {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 10px;
+  padding-block: 5px;
+}
+li {
+  display: inline-flex;
+  align-items: center;
+  list-style-type: none;
+  margin-inline-end: 20px;
+  overflow: hidden;
+}
 .game {
   display: flex;
   justify-content: space-between;

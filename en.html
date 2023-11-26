@@ -9,6 +9,15 @@
     <script src="game.js"></script>
   </head>
   <body>
+    <div id="leaderboardModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Game Over! Your score was: <span id="finalScore"></span></p>
+        <input type="text" id="playerName" placeholder="Enter your name">
+        <input type="email" id="playerEmail" placeholder="Enter your email">
+        <button onclick="submitScore()">Submit</button>
+      </div>
+    </div>
     <div class="container">
       <section>
         <img src="assets/img/avatar.png" alt="Clément Foltran's Profile" />

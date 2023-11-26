@@ -81,5 +81,55 @@ function endGame() {
   pointTimeout.forEach((timeout) => clearTimeout(timeout[0]));
   document.querySelectorAll(".red-dot").forEach((e) => e.remove());
   clearInterval(gameInterval);
-  alert("Game Over! Your score was: " + score);
+  
+  const playerName = prompt("Game Over! Your score was: " + score + "\nEnter your name and/or company:");
+  if (playerName) {
+    postScoreToAPI(score, playerName);
+  }
 }
+
+function postScoreToAPI(score, playerName) {
+  const apiUrl = 'http://localhost:3000/score';
+
+  fetch(apiUrl, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ name: playerName, score: score }),
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log('Success:', data);
+  })
+  .catch((error) => {
+    console.error('Error:', error);
+  });
+}
+
+function getLeaderboardFromAPI() {
+  const apiUrl = 'http://localhost:3000/leaderboard';
+console.log('ok');
+  fetch(apiUrl, {
+    method: 'GET',
+    headers: {
+      'Content-Type': 'text/plain',
+    },
+  })
+  .then(response => response.text())
+  .then(data => {
+    data = JSON.parse(data);
+    data.pop();
+    data.forEach(s => {
+      console.log(s);
+      const [name, score] = s.split(',');
+      const leaderboard = document.getElementById("leaderboard");
+      leaderboard.appendChild(document.createElement("li")).textContent = `${name}: ${score}`;
+      
+    });
+  })
+  .catch((error) => {
+    console.error('Error:', error);
+  });
+}
+getLeaderboardFromAPI();
