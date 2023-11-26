@@ -89,7 +89,7 @@ function endGame() {
 }
 
 function postScoreToAPI(score, playerName) {
-  const apiUrl = 'http://localhost:3000/score';
+  const apiUrl = '  https://huntme.onrender.com:3000/score';
 
   fetch(apiUrl, {
     method: 'POST',
@@ -108,7 +108,7 @@ function postScoreToAPI(score, playerName) {
 }
 
 function getLeaderboardFromAPI() {
-  const apiUrl = 'http://localhost:3000/leaderboard';
+  const apiUrl = '  https://huntme.onrender.com:3000/leaderboard';
 console.log('ok');
   fetch(apiUrl, {
     method: 'GET',
