@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const fs = require("fs");
+const cors = require("cors"); // Import CORS module
 const app = express();
 const port = 3000;
 
@@ -9,8 +10,11 @@ const csvFilePath = "scores.csv";
 
 app.use(bodyParser.json());
 
+// Enable CORS for all routes
+app.use(cors());
+
 // POST endpoint to write score and name
-app.post("/submit-score", (req, res) => {
+app.post("/score", (req, res) => {
   const { name, score } = req.body;
   const newEntry = `${name},${score}\n`;
 
@@ -23,12 +27,13 @@ app.post("/submit-score", (req, res) => {
 });
 
 // GET endpoint to return all scores and names
-app.get("/get-scores", (req, res) => {
+app.get("/leaderboard", (req, res) => {
   fs.readFile(csvFilePath, "utf8", (err, data) => {
     if (err) {
       return res.status(500).send("Error reading CSV file");
     }
-    res.type("text/plain").send(data);
+    // return array json
+    res.send(data.split("\n"));
   });
 });
 
