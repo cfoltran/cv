@@ -40,6 +40,14 @@ body {
   background-color: #0056b3;
 }
 
+.red-dot {
+  background: url("assets/img/avatar.png");
+  background-size: cover;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
 #score {
   font-size: 20px;
   margin-bottom: 10px;
